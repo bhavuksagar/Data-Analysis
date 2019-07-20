@@ -1,2 +1,2 @@
 # Data-Analysis
-In this data analysis is done on the different datasets which are available on the Internet 
+Data analysis and Data Wrangling is done on the different datasets which are available on the Internet 
